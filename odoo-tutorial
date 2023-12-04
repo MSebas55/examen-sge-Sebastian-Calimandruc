@@ -1,11 +1,11 @@
 ¿Cuál es el nombre clave de la versión de Ubuntu que estás usando?
--
+Ubuntu 22.04.2 LTS
  
 ¿Qué página debería seguir para instalar odoo en Ubuntu?
-- 
+https://geekrewind.com/how-to-install-odoo-on-ubuntu-linux/
 
 ¿Cuál es la base de datos SQL que utiliza odoo?
--
+PostgreSQL
 
 ¿Qué riesgo corremos si queremos subir nuestra carpeta home del usuario odoo a github sin previa configuración?
--
+Que igual no está configurado el repositorio al que queremos subir la carpeta y que además odoo ya viene con un repositorio dentro de él instalado previamente por lo que podrían juntarse ambos repositorios y no se puede hacer eso.
